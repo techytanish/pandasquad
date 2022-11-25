@@ -1,0 +1,2 @@
+# pandasquad
+termux banner
